@@ -13,4 +13,4 @@ It demonstrates how to create a list that meets the following requirements.
 
 Below is a simple video that shows an example of how the list should work.
 
-[![Video](/assets/blogg/swiftui/RPReplay_Final1587392731.png)](/assets/blogg/swiftui/RPReplay_Final1587392731.mov " ")
+[![Video](https://www.callistaenterprise.se/assets/blogg/swiftui/RPReplay_Final1587392731.png)](https://www.callistaenterprise.se/assets/blogg/swiftui/RPReplay_Final1587392731.mov " ")
