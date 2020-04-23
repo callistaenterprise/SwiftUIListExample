@@ -1,5 +1,6 @@
 # SwiftUIListExample
 Sample code to complement an article about how to create Dynamic Lists With Asynchronous Data Loading in SwiftUI.
+You find the article here: [Dynamic Lists With Asynchronous Data Loading](https://callistaenterprise.se/blogg/teknik/2020/04/20/swiftui-lists/)
 
 It demonstrates how to create a list that meets the following requirements.
 
